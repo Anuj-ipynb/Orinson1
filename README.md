@@ -77,6 +77,6 @@ It categorizes samples into one of three species:
 
 Contributions are welcome! Feel free to submit a pull request or report an issue.
 
----
 
-This repository serves as a practical introduction to machine learning concepts like data preprocessing, feature engineering, and model evaluation, making it a great learning resource for beginners and enthusiasts. 🌟
+
+
