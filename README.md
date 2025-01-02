@@ -21,27 +21,6 @@ This project demonstrates a predictive modeling pipeline using the **Iris datase
 - **Cross-Validation**: Ensures robustness and generalization with k-fold cross-validation.
 - **Predictions on New Data**: Demonstrates how to use the trained model to predict on unseen inputs.
 
----
-
-## Usage 🛠️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/iris-predictive-model.git
-   cd iris-predictive-model
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the program:
-   ```bash
-   python iris_predictive_model.py
-   ```
-
----
 
 ## Output Highlights 📈
 
